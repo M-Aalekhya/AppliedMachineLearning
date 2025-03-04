@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/2221a582ff7f481586c6ae4362f84f46/artifacts
+end_time: 1741103365435
+entry_point_name: ''
+experiment_id: '130972181796319339'
+lifecycle_stage: active
+run_id: 2221a582ff7f481586c6ae4362f84f46
+run_name: Logistic Regression
+run_uuid: 2221a582ff7f481586c6ae4362f84f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741103358353
+status: 3
+tags: []
+user_id: HP

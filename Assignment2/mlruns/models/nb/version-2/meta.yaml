@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741103195860
+current_stage: None
+description: null
+last_updated_timestamp: 1741103195860
+name: nb
+run_id: 450e839713d2421297f074bc2e41b485
+run_link: null
+source: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/450e839713d2421297f074bc2e41b485/artifacts/model
+status: READY
+status_message: null
+storage_location: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/450e839713d2421297f074bc2e41b485/artifacts/model
+user_id: null
+version: 2

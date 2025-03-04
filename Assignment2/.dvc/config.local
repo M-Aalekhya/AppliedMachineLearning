@@ -1,0 +1,2 @@
+['remote "myremote"']
+    gdrive_service_account_json_file_path = ../dvc-assignment-e9a57d4791c3.json

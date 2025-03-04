@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/450e839713d2421297f074bc2e41b485/artifacts
+end_time: 1741103195906
+entry_point_name: ''
+experiment_id: '130972181796319339'
+lifecycle_stage: active
+run_id: 450e839713d2421297f074bc2e41b485
+run_name: Naive Bayes
+run_uuid: 450e839713d2421297f074bc2e41b485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741103189290
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741103365414
+current_stage: None
+description: null
+last_updated_timestamp: 1741103365414
+name: logreg
+run_id: 2221a582ff7f481586c6ae4362f84f46
+run_link: null
+source: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/2221a582ff7f481586c6ae4362f84f46/artifacts/model
+status: READY
+status_message: null
+storage_location: file:c:/Users/HP/OneDrive/Desktop/CMI/CMI Semester 4/AML/AppliedMachineLearning/Assignment2/mlruns/130972181796319339/2221a582ff7f481586c6ae4362f84f46/artifacts/model
+user_id: null
+version: 1

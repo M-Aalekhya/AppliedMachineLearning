@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Running tests before commit..."
+
+cd Assignment4
+"C:/Users/HP/anaconda3/envs/aml/Scripts/pytest.exe" test.py
+
+if [ $? -ne 0 ]; then
+    echo "Tests failed. Commit aborted."
+    exit 1
+fi
